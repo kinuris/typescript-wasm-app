@@ -1,0 +1,19 @@
+{
+  "name": "typescript-wasm",
+  "version": "1.0.0",
+  "description": "Typescript wasm app",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "author": "Chris Dominic P. Chan",
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "hello-wasm-pack": "^0.1.0",
+    "ts-loader": "^9.3.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.2"
+  }
+}
