@@ -7,7 +7,7 @@
     "build": "webpack --config ./webpack.config.js"
   },
   "bin": {
-    "create-typescript-wasm": "bin/index.js"
+    "create-typescript-wasm-app": "bin/index.js"
   },
   "author": "Chris Dominic P. Chan",
   "license": "MIT, Apache-2.0",
