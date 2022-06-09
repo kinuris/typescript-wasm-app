@@ -1,15 +1,15 @@
 # typescript-wasm-app
 
 ## About  
- This is a template designed for interfacing with Web Assembly packages, mainly Rust generated Web Assembly.
+ This is a template designed for interfacing with Web Assembly packages, mainly _Rust generated Web Assembly_.
 
 ## Usage
-* Installation
+* `Installation`
 ```
 npx typescript-wasm-app <optional folder name>
 ```  
 
-* Development
+* `Development`
 ```
 npm start
 ```
