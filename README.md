@@ -6,11 +6,13 @@
 ## Usage
 * `Installation`
 ```
-npx typescript-wasm-app <optional folder name>
+npx typescript-wasm-app <folder name>
 ```  
 
 * `Development`
 ```
+npm install
+
 npm start
 ```
 
