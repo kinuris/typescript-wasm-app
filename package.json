@@ -1,10 +1,13 @@
 {
-  "name": "typescript-wasm",
+  "name": "typescript-wasm-app",
   "version": "1.0.0",
-  "description": "Typescript wasm app",
+  "description": "Generates typescript <-> wasm interface",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack --config ./webpack.config.js"
+  },
+  "bin": {
+    "create-typescript-wasm": "bin/index.js"
   },
   "author": "Chris Dominic P. Chan",
   "license": "MIT, Apache-2.0",
