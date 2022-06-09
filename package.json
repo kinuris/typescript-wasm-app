@@ -7,7 +7,16 @@
     "build": "webpack --config ./webpack.config.js"
   },
   "author": "Chris Dominic P. Chan",
-  "license": "MIT",
+  "license": "MIT, Apache-2.0",
+  "keywords": [
+    "wasm",
+    "webassembly",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinuris/typescript-wasm-app"
+  },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
     "hello-wasm-pack": "^0.1.0",
