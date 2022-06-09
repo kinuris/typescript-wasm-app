@@ -3,9 +3,10 @@
 ## About  
  This is a template designed for interfacing with Web Assembly, mainly Rust generated.
 
-## Usage  
-* ```
-    npm start
+## Usage
+* Development
+```
+npm start
 ```
 
 ## Licenses
