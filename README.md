@@ -9,6 +9,12 @@
 npx typescript-wasm-app <folder name>
 ```  
 
+__or__
+
+```
+git clone https://github.com/kinuris/typescript-wasm-app.git
+```  
+
 * `Development`
 ```
 npm install
